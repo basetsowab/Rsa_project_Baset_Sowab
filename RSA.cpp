@@ -1,7 +1,5 @@
 // Baset Sowab 
-// Project 3 RSA
-// CSCI 360
-// Due 11/25/2025
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
